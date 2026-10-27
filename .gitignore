@@ -1,0 +1,5 @@
+node_modules/
+dist/
+evidencias/
+generar_word_evidencia.mjs
+*.docx
